@@ -31,7 +31,7 @@ Otherwise, you can also pass `--no-modify-path` so that `fuelup-init` does not m
 curl --proto '=https' --tlsv1.2 -sSf https://install.fuel.network/fuelup-init.sh | sh -s -- --no-modify-path
 ```
 
-Ensure that all components are downloaded and works:
+Ensure that all components are downloaded and work:
 
 ```sh
 fuelup --version
